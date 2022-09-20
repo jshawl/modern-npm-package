@@ -3,7 +3,9 @@
   "version": "0.0.1",
   "description": "",
   "main": "index.js",
-  "files": [],
+  "files": [
+    "src"
+  ],
   "scripts": {
     "test": "jest --coverage",
     "format": "prettier --write {*.js,**/*.js}"

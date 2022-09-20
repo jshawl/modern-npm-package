@@ -1,3 +1,2 @@
-export default function () {
-  return true;
-}
+import src from './src';
+export default src;
