@@ -1,10 +1,16 @@
 # Modern NPM Package
 
+## Features
+
+- ES Modules
+- CI & a test suite out of the box
+- No build steps or compilation!
+
 ## Configuration
 
-- package.json author
-- LICENSE.txt author and year
-- CHANGELOG.md github urls and tags
+- `package.json` author
+- `LICENSE.txt` author and year
+- `CHANGELOG.md` github urls and tags
 
 ## Testing
 
