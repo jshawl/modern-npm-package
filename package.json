@@ -8,7 +8,8 @@
   ],
   "scripts": {
     "test": "jest --coverage",
-    "format": "prettier --write {*.js,**/*.js}"
+    "format": "prettier --write {*.js,**/*.js}",
+    "format:check": "prettier --check {*.js,**/*.js}"
   },
   "repository": {
     "type": "git",
