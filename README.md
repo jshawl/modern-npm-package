@@ -1,4 +1,4 @@
-# Modern NPM Package
+# NPM Package
 
 ## Features
 
