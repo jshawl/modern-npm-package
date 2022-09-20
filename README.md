@@ -4,6 +4,7 @@
 
 - package.json author
 - LICENSE.txt author and year
+- CHANGELOG.md github urls and tags
 
 ## Testing
 
